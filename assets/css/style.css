@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 h1 {
     text-align: center;
     color: white;
@@ -16,3 +17,11 @@ body {
 }
 
 
+=======
+.page-header{
+    background-color:rgb(28, 28, 58)
+}
+#titleText {
+    text-align: center;
+}
+>>>>>>> Stashed changes
